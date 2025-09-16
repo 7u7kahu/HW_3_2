@@ -4,5 +4,8 @@
     <color name="white">#FFFFFFFF</color>
     <color name="dark_gray">#323232</color> <!-- RGB(50, 50, 50) -->
     <color name="orange">#FF9500</color> <!-- RGB(255, 149, 0) -->
-    <color name="gray">#A5A5A5</color> <!-- RGB(165, 165, 165) -->
+    <color name="gray">#A5A5A5</color>
+    <color name="dark_blue">#28323b</color>
+    <color name="pink">#f50057</color>
+<color name="blue">#03254c</color>
 </resources>
